@@ -1,0 +1,5 @@
+name: Entity reference with text field
+type: module
+description: Extends entity reference to allow storaing and displaying an additional text field.
+core: 8.x
+package: B-Works

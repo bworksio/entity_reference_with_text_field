@@ -1,0 +1,13 @@
+{
+  "name": "bworksio/entity_reference_with_text_field",
+  "description": "Extends entity reference to allow storaing and displaying an additional text field.",
+  "type": "drupal-module",
+  "keywords": [
+    "drupal"
+  ],
+  "homepage": "https://github.com/bworksio/entity_reference_with_text_field",
+  "license": "GPL-2.0+",
+  "support": {
+    "issues": "https://github.com/bworksio/entity_reference_with_text_field/issues"
+  }
+}
